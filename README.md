@@ -38,5 +38,30 @@ The application uses Firebase backend services for authentication and leaderboar
 
 ---
 ## 📸 Screenshots
+### Signup Screen
+![Signup Screen](screenshots/Signup-Screen.png)
+
+### Login Screen
+![Login Screen](screenshots/Login-Screen.png)
+
+### Home Screen
+![Home Screen](screenshots/Home-Screen.png)
+
+### How To Play Screen
+![How to Play Screen](screenshots/How-to-Play.png)
+
+### Scenario Screen
+![Scenario Screen](screenshots/Scenario-Screen.png)
+
+### Feedback Screen - Right Option
+![Feedback Screen](screenshots/Feedback-Screen.png)
+
+### Feedback Screen - Wrong Option
+![Feedback 2 Screen](screenshots/Feedback-2-Screen.png)
+
+### Leaderboard Screen
+![Leaderboard Screen](screenshots/Leaderboard-Screen.png)
+
+
 
 
