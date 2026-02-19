@@ -62,6 +62,14 @@ The application uses Firebase backend services for authentication and leaderboar
 ### Leaderboard Screen
 ![Leaderboard Screen](screenshots/Leaderboard-Screen.png)
 
+## 📚 Documentation
+Detailed documentation is available inside the `/docs` folder.
+
+---
+
+## 👤 Author
+**Allan Njuguna Ngugi**
+Cybersecurity & Digital Forensics Enthusiast
 
 
 
