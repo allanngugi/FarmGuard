@@ -37,3 +37,6 @@ The goal of the project is to improve cybersecurity awareness through gamificati
 The application uses Firebase backend services for authentication and leaderboard storage while Flutter provides the cross-platform mobile interface.
 
 ---
+## 📸 Screenshots
+
+
