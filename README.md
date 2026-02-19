@@ -69,6 +69,7 @@ Detailed documentation is available inside the `/docs` folder.
 
 ## 👤 Author
 **Allan Njuguna Ngugi**
+
 Cybersecurity & Digital Forensics Enthusiast
 
 
